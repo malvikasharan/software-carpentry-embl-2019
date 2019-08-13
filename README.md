@@ -1,6 +1,6 @@
 # Software Carpentry @ EMBL 2017
 
-Materials for Software Carpentry workshop at the European Molecular Biology Laboratory, October 2017. Course organised by 
+Materials for Software Carpentry workshop at the European Molecular Biology Laboratory, October 2017. Course organised by
 [EMBL Bio-IT](https://bio-it.embl.de) and [the German Network for Bioinformatics Infrastructure (de.NBI)](http://www.denbi.de).
 
 ### Instructors
@@ -24,4 +24,4 @@ Workshop info page: [www.embl.de/training/events/2017/SWC17-01/index.html](https
 Software Carpentry: [software-carpentry.org](https://software-carpentry.org/)
 
 EMBL: [embl.de](https://embl.de)
-
+END
