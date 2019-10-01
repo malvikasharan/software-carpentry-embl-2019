@@ -1,4 +1,4 @@
-# Software Carpentry @ EMBL 2017
+# Software Carpentry @ EMBL 2019
 
 Materials for Software Carpentry workshop at the European Molecular Biology Laboratory, October 2017. Course organised by
 [EMBL Bio-IT](https://bio-it.embl.de) and [the German Network for Bioinformatics Infrastructure (de.NBI)](http://www.denbi.de).
@@ -7,7 +7,8 @@ Materials for Software Carpentry workshop at the European Molecular Biology Labo
 
 - Toby Hodges
 - Malvika Sharan
-- Luis Pedro Coelho
+- Holger Dinke
+- Renato Alves
 - Frank Thommen
 - Mike Smith
 - Thomas Schwarzl
