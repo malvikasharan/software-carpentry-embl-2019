@@ -5,24 +5,29 @@ Materials for Software Carpentry workshop at the European Molecular Biology Labo
 
 ### Instructors
 
-- Toby Hodges
+## Python
 - Malvika Sharan
 - Holger Dinkel
 - Renato Alves
+
+## Unix
 - Frank Thommen
-- Mike Smith
+
+## Cluster
+- Toby Hodges
+
+## Snakemake
 - Thomas Schwarzl
-- Georg Zeller
 
 ### Links
 
-Workshop Etherpad: http://pad.software-carpentry.org/embl2019
-
-Workshop homepage: [tobyhodges.github.io/2017-10-17-heidelberg/](https://tobyhodges.github.io/2017-10-17-heidelberg/)
+Workshop homepage: [https://malvikasharan.github.io/2019-10-16-heidelberg/](https://malvikasharan.github.io/2019-10-16-heidelberg/)
 
 Workshop info page: [https://www.embl.de/training/events/2019/SWC19-01/programme/](https://www.embl.de/training/events/2019/SWC19-01/programme/)
 
 Software Carpentry: [software-carpentry.org](https://software-carpentry.org/)
 
 EMBL: [embl.de](https://embl.de)
+
+Bio-IT: [bio-it.embl.de](https://bio-it.embl.de)
 
