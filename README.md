@@ -47,6 +47,7 @@ Workshop homepage: [https://malvikasharan.github.io/2019-10-16-heidelberg/](http
 Workshop info page: [https://www.embl.de/training/events/2019/SWC19-01/programme/](https://www.embl.de/training/events/2019/SWC19-01/programme/)
 
 Software Carpentry: [software-carpentry.org](https://software-carpentry.org/)
+Repository with solutions: 
 
 EMBL: [embl.de](https://embl.de)
 
